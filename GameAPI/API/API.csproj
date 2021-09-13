@@ -9,7 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="SignalRHubs\" />
+    <Folder Include="Controllers\" />
   </ItemGroup>
 
 </Project>
